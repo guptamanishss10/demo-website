@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.tsparticles-canvas-el{
+  position:absolute;
+  color: #ff0000;
+  height: 512px;
+  width: 512px;
+  z-index: 1;
+
+}
